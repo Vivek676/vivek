@@ -1,0 +1,105 @@
+body{
+    margin: 0;
+    text-align:center;
+    font-family: 'Merienda', cursive;
+    font-size: 200%;
+    line-height: 35px;
+    align-items: center;
+}
+
+h1{
+    color: darkcyan;
+    margin-bottom: 0;
+    margin: 50px auto 0 auto;
+    font-family: 'Great Vibes', cursive;
+    font-size: 6.625rem;
+}
+h3{
+    color: darkgreen;
+    margin: 50px auto 50px auto;
+    font-family: 'Great Vibes', cursive;
+    font-size: 50px;
+}
+.web{
+    text-decoration: underline;
+}
+.cloud{
+    max-width: 15%;
+    max-height: 15%;
+    margin-left: 300px;
+}
+.mountain{
+    max-height:  100%;
+    max-width: 100%;
+    text-align: center;
+    
+}
+.top-container{
+    padding: 10px;
+}
+.cloud-2{
+    max-width: 20%;
+    max-height: 20%;
+    margin-left: 350px;
+    margin-right: 1500px;
+}
+hr{
+    background-color: none;
+    border-top-style: none none;
+    border-style: dotted none none;
+    border-color:black ;
+}
+.upper{
+    background-color: rgb(139, 81, 81);
+}
+.bottom-container{
+    text-align: left;
+    margin: auto 200px auto 200px;
+   
+}
+
+.class{
+    font-family: 'DM Serif Display', serif;
+}
+.p{
+    float: left;
+    margin-right: 20px;
+    
+}
+.container{
+    text-align: left;
+    margin: 150px 600px auto 200px;
+}
+.m{
+    float: left;
+    margin-right: 20px;
+}
+h2{
+    margin: 50px auto 50px auto;
+    font-family: 'DM Serif Display', serif;
+}
+
+.btn {
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px;
+    font-family: Georgia;
+    color: #050105;
+    font-size: 18px;
+    background: #3498db;
+    padding: 3px 17px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+  .hii{
+      background-color: lightgoldenrodyellow;
+  }
